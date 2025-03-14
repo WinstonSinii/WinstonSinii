@@ -1,5 +1,6 @@
-## Hi there 👋
+## Sup, <coders/\> 👋
+
 - 🌱 I am currently a 2nd year student
 - 📫 How to reach me:
--     Telegram - @hotdoggr
-      Gmail - sonyachekyn@gmail.com
+    - Telegram: [@hotdoggr](https://t.me/hotdoggr)
+    - Gmail: [sonyachekyn@gmail.com](mailto:sonyachekyn@gmail.com)
